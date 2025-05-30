@@ -13,9 +13,12 @@ function selectionSort(arr) {
         }
     }
     
+    // normal way 
+    // const minValue = data.splice(minIndex, 1)[0];
+    // data.splice(i, 0, minValue);
+
+    // efficient way
     [data[i], data[minIndex]] = [data[minIndex], data[i]]
-    
-    console.log(`====== Main ${i} loop end ======`)
 
   }
   return data;
