@@ -8,8 +8,8 @@
 
 1. DSA Bubble Sort  // done
 2. DSA Selection Sort  // done
-3. DSA Insertion Sort  // ongoing
-4. DSA Quick Sort  
+3. DSA Insertion Sort  // done
+4. DSA Quick Sort  // ongoing
 5. DSA Counting Sort  
 6. DSA Radix Sort  
 7. DSA Merge Sort  
